@@ -1,13 +1,13 @@
 [Main points](https://github.com/libresource/open-source-checklist#main-points)
 - [x] [Open Source Project Checklist](https://github.com/libresource/open-source-checklist#open-source-project-checklist)
-- [ ] [Existing Analogues](https://github.com/libresource/open-source-checklist#existing-analogues)
+- [x] [Existing Analogues](https://github.com/libresource/open-source-checklist#existing-analogues)
 - [x] [Good Project Name](https://github.com/libresource/open-source-checklist#good-project-name)
 - [x] [Mission](https://github.com/libresource/open-source-checklist#mission)
 - [x] [State What the Project Is Free](https://github.com/libresource/open-source-checklist#state-what-the-project-is-free)
 - [x] [Features](https://github.com/libresource/open-source-checklist#features)
 - [x] [Version Control Access](https://github.com/libresource/open-source-checklist#version-control-access)
 - [x] [Bug Tracker Access](https://github.com/libresource/open-source-checklist#bug-tracker-access)
-- [ ] [Communication Channels](https://github.com/libresource/open-source-checklist#communication-channels)
+- [x] [Communication Channels](https://github.com/libresource/open-source-checklist#communication-channels)
 - - [x] Discussions
 - - [ ] Mailing List
 - - [ ] Real-time chat
